@@ -84,10 +84,10 @@ predict_in_videos(
     filename="detected_video.mp4"
 )
 ```
-I have attached a video detection below.
+I have attached a video detection in GIF format below.
 
+![kingfisher_detected](https://github.com/user-attachments/assets/9b30292a-c77d-4312-957b-f41288d9f89b)
 
-https://github.com/user-attachments/assets/a8d0d160-8589-4879-ad34-8ae1a0cb3a0f
 
 ## 📊 Dataset Preparation
 
@@ -143,7 +143,7 @@ Training parameters can be adjusted based on your needs:
 ## 💡 Best Practices
 
 ### Dataset Preparation
-- Ensure dataset is well-balanced
+- Ensure the dataset is well-balanced
 - Include images with varying lighting conditions
 - Use data augmentation for better generalization
 
