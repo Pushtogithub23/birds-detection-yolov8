@@ -57,8 +57,6 @@ pip install -r requirements.txt
 
 ### Image Detection
 ```python
-from detection import display_prediction
-
 # For local image
 display_prediction("path/to/your/image.jpg", save_fig=True, filename="detected.jpg")
 
@@ -76,8 +74,6 @@ I have attached below few detections in images:
 
 ### Video Detection
 ```python
-from detection import predict_in_videos
-
 predict_in_videos(
     "path/to/your/video.mp4",
     save_video=True,
